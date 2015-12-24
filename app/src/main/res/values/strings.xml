@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="APP_ID">73e02d39-0f01-4a93-906a-6d0d4c48dca5</string>
+    <string name="APP_KEY">a4d4222b-1e59-4a3e-b731-05aa7e860931</string>
+    <color name="konotor_theme_color">#FF4081</color>
+</resources>
